@@ -1,0 +1,15 @@
+body{
+  font-size: 10PX;
+}
+#sehd{
+  background-color: rgb(127, 225, 255);
+  width: 100%;
+  height: 100%;}
+  fieldset{
+     margin-bottom:10PX ;
+     border-radius: 10PX;
+
+  }
+  form{
+    padding: 10px;
+  }
